@@ -9,15 +9,15 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-scandido&layout=compact&langs_count=7&theme=dark"/>
 </div> 
 
-## • I'm currently focused on Frameworks for Test Automation 🤖
-<h4>Cypress, Robot Framework, Selenium, TestCafé and WebDriverIO.<h4>
+## • I'm currently focused on Test Automation Frameworks 🤖
+<h4>Cypress, Playwright, Robot Framework, Selenium, TestCafé and WebDriverIO.<h4>
   <img align="center" alt="CYPRESS" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
+  <img align="center" alt="PLAYWRIGHT" src="https://img.shields.io/badge/-playwright-%43B02A?style=for-the-badge&logo=playwright&logoColor=red">
+  <img align="center" alt="ROBOT FRAMEWORK" src="https://img.shields.io/badge/-robot framework-lightgrey?style=for-the-badge&logo=robot-framework&logoColor=black">
   <img align="center" alt="SELENIUM" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-
+  
 ## Programming Languages
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="PY" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=whit">
   <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
