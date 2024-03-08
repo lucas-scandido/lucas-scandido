@@ -26,3 +26,27 @@
 
 ![Snake animation](https://github.com/lucas-scandido/lucas-scandido/blob/output/github-contribution-grid-snake.svg)
 
+## <h1> About me </h1>
+
+Studying Postgraduate in Quality Engineering and Software Testing. Having worked in the area for 4 years, I have experience with planning, management and different types of tests. I also have experience with E2E, API and performance automated testing.
+
+<details>
+
+I have worked with mnay tools to  plan, manage and execute tests effectively and efficiently, such as: Zephyr Scale, HP ALM, Octane, TestRail, Azure DevOps and GitLab.
+
+I have experience with E2E and API automation with Cypress, Playwright and WebDriverIO and also with performance testing with Grafana K6. Always ensuring software quality at all phases of the development lifecycle with robust and scalable scripts. I also have knowledge of studies with other frameworks such as: Robot Framework and Selenium and Appium. I haven't had the opportunity to work professionally with these last frameworks.
+
+I have already had contact with the Javascript and TypeScript Programming Languages. And whenever possible I try to keep studying Java and Python.
+
+I work collaboratively in agile teams (Scrum and Kanban), participating in daily meetings, sprint planning and retrospectives to ensure continuous delivery of high-quality software.
+
+Additionally, I am familiar with other important tools, such as AWS, Office Package, Dashboard Cypress, GitHub, GitHub Actions, Git Lab, New Relic, Postman and Insomnia, which allows me to integrate and automate processes, monitor software performance and collaborate effectively with the team.
+
+</details>
+
+
+
+
+
+
+
