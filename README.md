@@ -9,24 +9,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-scandido&layout=compact&langs_count=7&theme=dark"/>
 </div> 
 
-## • I'm currently focused on Test Automation Frameworks 🤖
-<h4>Cypress, Playwright, Robot Framework, Selenium, TestCafé and WebDriverIO.<h4>
-  <img align="center" alt="CYPRESS" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
-  <img align="center" alt="PLAYWRIGHT" src="https://img.shields.io/badge/-playwright-%43B02A?style=for-the-badge&logo=playwright&logoColor=red">
-  <img align="center" alt="ROBOT FRAMEWORK" src="https://img.shields.io/badge/-robot framework-lightgrey?style=for-the-badge&logo=robot-framework&logoColor=black">
-  <img align="center" alt="SELENIUM" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-  
-## Programming Languages
-<div style="display: inline_block"><br>
-  <img align="center" alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img align="center" alt="TS" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="PY" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img align="center" alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-</div>
-
-![Snake animation](https://github.com/lucas-scandido/lucas-scandido/blob/output/github-contribution-grid-snake.svg)
-
-## <h1> About me </h1>
+## <h1> About me 😃 </h1>
 
 Studying Postgraduate in Quality Engineering and Software Testing. Having worked in the area for 4 years, I have experience with planning, management and different types of tests. I also have experience with E2E, API and performance automated testing.
 
@@ -45,8 +28,19 @@ Additionally, I am familiar with other important tools, such as AWS, Office Pack
 </details>
 
 
+## • I'm currently focused on Test Automation Frameworks 🤖
+<h4>Cypress, Playwright, Robot Framework, Selenium, TestCafé and WebDriverIO.<h4>
+  <img align="center" alt="CYPRESS" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
+  <img align="center" alt="PLAYWRIGHT" src="https://img.shields.io/badge/-playwright-%43B02A?style=for-the-badge&logo=playwright&logoColor=red">
+  <img align="center" alt="ROBOT FRAMEWORK" src="https://img.shields.io/badge/-robot framework-lightgrey?style=for-the-badge&logo=robot-framework&logoColor=black">
+  <img align="center" alt="SELENIUM" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+  
+## Programming Languages
+<div style="display: inline_block"><br>
+  <img align="center" alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img align="center" alt="TS" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="PY" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img align="center" alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+</div>
 
-
-
-
-
+![Snake animation](https://github.com/lucas-scandido/lucas-scandido/blob/output/github-contribution-grid-snake.svg)
