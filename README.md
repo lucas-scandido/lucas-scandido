@@ -43,4 +43,4 @@ Additionally, I am familiar with other important tools, such as AWS, Office Pack
   <img align="center" alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
 
-![Snake animation](https://github.com/lucas-scandido/lucas-scandido/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/lucas-scandido/lucas-scandido/blob/output/github-contribution-grid-snake.gif)
