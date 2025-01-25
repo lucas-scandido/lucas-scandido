@@ -38,7 +38,7 @@
      <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" /></code>
      <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions"/></code>
 
--  🛠️  **Other Tools and Plataforms:**
+-  🛠️  **Other Tools and Plataforms**
   
      <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="Grafana" /></code>
      <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes"/></code>
