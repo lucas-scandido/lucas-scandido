@@ -13,8 +13,8 @@
 ##  🧠  Skills
 -  💻  **Programming Languages**
 
-     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" /></code>
-     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" alt="TypeScript" /></code>
+     <code><img height="20" src="https://www.svgrepo.com/show/353925/javascript.svg" alt="JavaScript" /></code>
+     <code><img height="20" src="https://www.svgrepo.com/show/303600/typescript-logo.svg" alt="TypeScript" /></code>
      <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" /></code>
      <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" /></code>
 
@@ -28,7 +28,7 @@
 -  🤖  **Test Automation Frameworks**
 
      <code><img height="20" src="https://www.svgrepo.com/show/354321/selenium.svg" alt="Selenium"></code>
-     <code><img height="20" src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" alt="Cypress"></code>
+     <code><img height="20" src="https://www.svgrepo.com/show/353630/cypress.svg" alt="Cypress"></code>
      <code><img height="20" src="https://www.svgrepo.com/show/374049/robotframework.svg" alt="Robot Framework"></code>
      <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright"/></code>
      <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" alt="Grafana K6" /></code>
@@ -36,6 +36,7 @@
 -  🔄  **Continuous Integration**
 
      <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" /></code>
+     <code><img height="20" src="https://www.svgrepo.com/show/373457/azurepipelines.svg" alt="Azure Pipelines"/></code>
      <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions"/></code>
 
 -  🛠️  **Other Tools and Plataforms**
