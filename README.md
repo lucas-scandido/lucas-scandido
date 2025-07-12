@@ -3,8 +3,8 @@
 <h3> A Brazilian QA Analyst, on a mission to deliver a flawless software. </h3> 
 
 ##  😃  About me
--  👨‍🎓     Postgraduate student in Quality Engineering and Software Testing at the Pontifícia Universidade Católica - PUC.
--  👨‍💻     Over than 4 years of experience in planning, management and different tests types.
+-  👨‍🎓     Postgraduate in Quality Engineering and Software Testing at the Pontifícia Universidade Católica - PUC.
+-  👨‍💻     Over than 5 years of experience in planning, management and different tests types.
 -  🤖     Web and API test automation experience with Cypress and Playwright.   
 -  ⚙️     Performance testing experience with Grafana K6.
 -  🦾     Maintaining continuous studies with Selenium and Robot.  
