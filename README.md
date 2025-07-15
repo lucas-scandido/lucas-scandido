@@ -1,9 +1,9 @@
 # Hey there! I'm <a href="https://www.linkedin.com/in/lucas-scandido/" target="_blank">Lucas</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
 
-<h3> A Brazilian QA Analyst, on a mission to deliver a flawless software. </h3> 
+<h3> A Brazilian QA Engineer, on a mission to deliver a flawless software. </h3> 
 
 ##  😃  About me
--  👨‍🎓     Postgraduate in Quality Engineering and Software Testing at the Pontifícia Universidade Católica - PUC.
+-  👨‍🎓     Postgraduate in Quality Engineering and Software Testing.
 -  👨‍💻     Over than 5 years of experience in planning, management and different tests types.
 -  🤖     Web and API test automation experience with Cypress and Playwright.   
 -  ⚙️     Performance testing experience with Grafana K6.
