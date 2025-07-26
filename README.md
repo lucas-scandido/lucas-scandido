@@ -13,38 +13,55 @@
 ##  🧠  Skills
 -  💻  **Programming Languages**
 
-     <code><img height="20" src="https://www.svgrepo.com/show/353925/javascript.svg" alt="JavaScript" /></code>
-     <code><img height="20" src="https://www.svgrepo.com/show/303600/typescript-logo.svg" alt="TypeScript" /></code>
-     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" /></code>
-     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" /></code>
+     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+     ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+     ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+     ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 -  📋  **Test Management Tools**
 
-     <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzcxU4x8fXS1PEJBotVYNePUXVrOLQACy3ag&s" alt="Zephyr Scale"></code>
-     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" alt="Confluence" /></code>
-     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" /></code>
-     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Jira" /></code>
+     ![Zephyr Scale](https://img.shields.io/badge/Zephyr_Scale-2684FF?style=flat&logo=zephyr)
+     ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+     ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat&logo=azuredevops&logoColor=white)
+     ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
 -  🤖  **Test Automation Frameworks**
 
-     <code><img height="20" src="https://www.svgrepo.com/show/354321/selenium.svg" alt="Selenium"></code>
-     <code><img height="20" src="https://www.svgrepo.com/show/353630/cypress.svg" alt="Cypress"></code>
-     <code><img height="20" src="https://www.svgrepo.com/show/374049/robotframework.svg" alt="Robot Framework"></code>
-     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright"/></code>
-     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" alt="Grafana K6" /></code>
+     ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+     ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+     ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=flat&logo=robotframework&logoColor=white)
+     ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+     ![K6](https://img.shields.io/badge/Grafana_K6-7D64FF?style=flat&logo=grafanak6&logoColor=white)
 
 -  🔄  **Continuous Integration**
 
-     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" /></code>
-     <code><img height="20" src="https://www.svgrepo.com/show/373457/azurepipelines.svg" alt="Azure Pipelines"/></code>
-     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions"/></code>
+     ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+     ![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-2560E0?style=flat)
+     ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
--  🛠️  **Other Tools and Plataforms**
+-  📊  **Monitoring & Observability**
+
+     ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
+     ![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=flat&logo=newrelic&logoColor=white)
+     ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+
+-  💾  **Databases**
+
+     ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+     ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+     ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+     ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat&logo=dbeaver&logoColor=white)
+
+-  📬  **Message Brokers & Queues**
   
-     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="Grafana" /></code>
-     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes"/></code>
-     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS"/></code>
-     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker"/></code>
+     ![Service Bus](https://img.shields.io/badge/Azure_Service_Bus-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+-  ☁️  **Cloud & Infrastructure**
+
+     ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+     ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+     ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
      
 ##  🤝  Get in touch
 - [<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="LinkedIn"> LinkedIn](https://www.linkedin.com/in/lucas-scandido)
