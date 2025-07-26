@@ -20,9 +20,9 @@
 
 -  📋  **Test Management Tools**
 
+     ![Qase](https://img.shields.io/badge/Qase-4F46DC?style=flat&logo=qase&logoColor=white)
      ![Zephyr Scale](https://img.shields.io/badge/Zephyr_Scale-2684FF?style=flat&logo=zephyr)
-     ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
-     ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat&logo=azuredevops&logoColor=white)
+     ![Azure Test Plans](https://img.shields.io/badge/Azure_Test_Plans-0078D4?style=flat&logo=azuredevops&logoColor=white)
      ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
 -  🤖  **Test Automation Frameworks**
@@ -43,6 +43,7 @@
 
      ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
      ![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=flat&logo=newrelic&logoColor=white)
+     ![Graylog](https://img.shields.io/badge/Graylog-FF3633?style=flat&logo=graylog&logoColor=white)
      ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 -  💾  **Databases**
