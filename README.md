@@ -31,7 +31,7 @@
      ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
      ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=flat&logo=robotframework&logoColor=white)
      ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-     ![K6](https://img.shields.io/badge/Grafana_K6-7D64FF?style=flat&logo=grafanak6&logoColor=white)
+     ![K6](https://img.shields.io/badge/Grafana_K6-7D64FF?style=flat&logo=grafana&logoColor=white)
 
 -  🔄  **Continuous Integration**
 
